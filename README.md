@@ -3,7 +3,7 @@
 Read your vimwiki files sorted by last used and create a list
 
 - Author: Tuncay D.
-- Source: https://github.com/thingsiplay/vimwiki\_recent
+- Source: [Github](https://github.com/thingsiplay/vimwiki_recent)
 - License: [MIT License](LICENSE)
 
 ## What is this?
