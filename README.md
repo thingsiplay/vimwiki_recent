@@ -25,7 +25,7 @@ file. Here is a simple instruction you can follow (you don't have to):
 
     git clone https://github.com/thingsiplay/vimwiki_recent
     cd vimwiki_recent
-    chdmod +x vimwiki_recent.py
+    chmod +x vimwiki_recent.py
     install -m 755 vimwiki_recent.py "$(systemd-path user-binaries)/vimwiki_recent"
 
 To uninstall from that location, just delete the script or use following
