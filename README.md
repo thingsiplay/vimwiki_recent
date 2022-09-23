@@ -71,8 +71,8 @@ order as a typical wiki link.
 ### Add the file to your overview
 
 The last thing you need to do is actually linking the file at
-"~/vimwiki/recent.wiki" as a link to your overview page at
-"~/vimwiki/index.wiki". And I suggest to add it at the top, so each time you
+"\~/vimwiki/recent.wiki" as a link to your overview page at
+"\~/vimwiki/index.wiki". And I suggest to add it at the top, so each time you
 open your index page, the most recent files will be available at your
 fingertips.
 
