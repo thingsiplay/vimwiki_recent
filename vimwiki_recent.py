@@ -107,7 +107,7 @@ def convert_to_links(files):
 
 
 def write_recent_file(file, content):
-    file.write_text("\n".join(content))
+    file.write_text("\n".join(content) + "\n")
 
 
 def write_stdout(content):
